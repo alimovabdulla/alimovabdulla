@@ -11,7 +11,7 @@
  
 <p>
      <br>
-     <img align="right" src="https://raw.githubusercontent.com/alimovabdulla/mygif/main/Vanilla%401x-0.8s-234px-53px.gif"   width="400"   />
+     <img align="right" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"   width="400"   />
 <br/>
      <br/>  <br/> <br/> 
      <br/>
