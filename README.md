@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="adam-pw"   height="400" width="300" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="adam-pw"   height="600" width="400" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
