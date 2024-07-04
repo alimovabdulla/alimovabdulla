@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdullaalimov555@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Programming is the heartbeat of innovation, and coding is the language that shapes our digital world.
 
 <br>
 
