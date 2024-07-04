@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://github.com/alimovabdulla/mygif/blob/main/Vanilla%401x-1.0s-280px-250px.gif"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://profile-counter.glitch.me/alimovabdulla/count.svg"
      /> 
   </p>
 
