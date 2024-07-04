@@ -94,4 +94,4 @@
 <br>
 
  
-[Adam-pw](https://github.com/Adam-pw)
+[Alimov Abdullah](https://github.com/alimovabdulla/)
