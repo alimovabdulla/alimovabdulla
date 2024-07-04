@@ -25,7 +25,6 @@ c<h1  align="center">Hi 👋, I'm Abdullah </h1>
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-   
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
