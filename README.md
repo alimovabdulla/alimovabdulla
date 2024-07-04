@@ -11,7 +11,7 @@
  
 <p>
      <br>
-     <img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="adam-pw" width="400"    />
+     <img align="right" src="https://raw.githubusercontent.com/alimovabdulla/mygif/main/Vanilla%401x-1.0s-280px-250px.gif" alt="adam-pw" width="400"    />
 <br/>
      <br/>  <br/> 
      <br/>
