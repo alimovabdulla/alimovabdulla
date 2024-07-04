@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://profile-counter.glitch.me/alimovabdulla/count.svg"
+<p align="right"> <h3>Profile Views :</h3> <img src="file:///C:/Users/ASUS/Downloads/Vanilla@1x-1.0s-280px-250px.gif"
      /> 
   </p>
 
