@@ -79,7 +79,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovabdulla&show_icons=true&locale=en&bg_color=0d1117&text_color=999&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-  <img align="right" src="https://cdn-images-1.medium.com/v2/resize:fit:700/1*q_dy5SuRV1491Ldw_TQzDQ.gif" alt="adam-pw"   height="400" width="400" /></p>
+</p>
 <br>
  
  
