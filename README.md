@@ -14,11 +14,12 @@
      <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ByNGxpN29kcnFkMnR3cWk4cjU1NjZoenlseW5mY3ZtaGs0aTRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  height="100" width="400"
 <br/>
      <br/>  <br/>  
+        <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxbjRwMmw5MTM0ZDM0aHN4b2hpbHp2ZnAzbXJtaGgyZmdrM3l0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="adam-pw"   height="400" width="400" /></p>
      <br/>
      <br/> 
      <br/> 
      <br/> 
-     <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxbjRwMmw5MTM0ZDM0aHN4b2hpbHp2ZnAzbXJtaGgyZmdrM3l0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="adam-pw"   height="400" width="400" /></p>
+  
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
