@@ -72,7 +72,7 @@
       width="40" height="40" /> </a>  </p>
 
 <br>
-
+https://cdn-images-1.medium.com/v2/resize:fit:700/1*q_dy5SuRV1491Ldw_TQzDQ.gif
 <h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovabdulla&show_icons=true&locale=en&bg_color=0d1117&text_color=999&layout=compact"
@@ -80,6 +80,6 @@
     bg_color=#808080/></p>
 
 <br>
-
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:700/1*q_dy5SuRV1491Ldw_TQzDQ.gif" />
  
 [Alimov Abdullah](https://github.com/alimovabdulla/)
