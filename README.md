@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Abdullah </h1>
+ <h1  align="center">Hi 👋, I'm Abdullah </h1>
 <h3    align="center">Backend Developer</h3>
 
 <br>
@@ -14,12 +14,11 @@
      <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ByNGxpN29kcnFkMnR3cWk4cjU1NjZoenlseW5mY3ZtaGs0aTRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  height="100" width="400"
 <br/>
      <br/>  <br/>  
-        <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxbjRwMmw5MTM0ZDM0aHN4b2hpbHp2ZnAzbXJtaGgyZmdrM3l0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="adam-pw"   height="400" width="400" /></p>
      <br/>
      <br/> 
      <br/> 
      <br/> 
-  
+     <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxbjRwMmw5MTM0ZDM0aHN4b2hpbHp2ZnAzbXJtaGgyZmdrM3l0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp" alt="adam-pw"   height="400" width="400" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -73,14 +72,14 @@
       width="40" height="40" /> </a>  </p>
 
 <br>
- 
+
 <h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alimovabdulla&show_icons=true&locale=en&bg_color=0d1117&text_color=999&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-</p>
+
 <br>
- 
+
  
 [Alimov Abdullah](https://github.com/alimovabdulla/)
