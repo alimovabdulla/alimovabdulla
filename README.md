@@ -19,9 +19,9 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img    src="https://raw.githubusercontent.com/alimovabdulla/alimovabdulla/main/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(5).jpeg" />
-<a href="https://discord.gg/hanzelkaraagac">
-<strong> Click here to join our Discord server ⬅️ </a>
+<img    src="https://raw.githubusercontent.com/alimovabdulla/alimovabdulla/main/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(6).jpeg" />
+ 
+ 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Abdullah+Alimov+Channel;+Click+image+to+join+our+server)
