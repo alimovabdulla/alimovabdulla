@@ -1,11 +1,14 @@
  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<br>
-<br>
 <div style="text-align: center; width: 100%;">
     <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
 </div>
+<br>
+
+
+<br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<br>
 
  
 <!-- <h2 align="center"> -->
