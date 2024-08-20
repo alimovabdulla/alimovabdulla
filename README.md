@@ -95,10 +95,7 @@
 </div>
 
 <!-- 3D contrib və ilan göstəriciləri -->
-<p align="center">
-    ![](./profile-3d-contrib/profile-night-rainbow.svg)
-    ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-</p>
+ 
 
 <!--  Ayırıcı xətt -->
 <p align="center">
