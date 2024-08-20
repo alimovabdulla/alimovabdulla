@@ -27,7 +27,10 @@
 <br>
 <br>
 <br>
- <img alight="center" src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" align="right"/> </p>
+<p style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: block; margin: auto;" />
+</p>
+
 
 <!--   
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
