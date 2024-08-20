@@ -24,7 +24,7 @@
  
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-<br>
+ 
 <br>
 <div style="text-align: center; width: 100%;">
     <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
