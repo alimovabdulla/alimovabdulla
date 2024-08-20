@@ -27,9 +27,9 @@
 <br>
 <br>
 <br>
-<p style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: block; margin: auto;" />
-</p>
+<div style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" />
+</div>
 
 
 <!--   
