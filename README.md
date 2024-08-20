@@ -112,7 +112,7 @@ jobs:
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
+[![Github Badge](https://github-readme-streak-stats.herokuapp.com/?user=alimovabdulla&theme=dark&hide_border=true)](https://github.com/hanzelkaraagac)
 
 
 
