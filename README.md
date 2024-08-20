@@ -26,9 +26,10 @@
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 <br>
 <br>
-<div style="display: flex; justify-content: center;">
-    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" />
+<div style="text-align: center; width: 100%;">
+    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
 </div>
+
 
 <!--   
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
