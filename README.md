@@ -50,22 +50,22 @@
   <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/hanzelkaraagac/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-alimov-95a989317/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <a href = "mailto:hanzelkaraagaac@gmail.com">
+  <a href = "mailto:abdullaalimov555@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
-  <a href="https://medium.com/@hanzelkaraagac">
+  <a href="https://medium.com/@abdullaalimov555">
    <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://twitter.com/hanzelkaraagac">
+  <a href="https://twitter.com/alimovabdulla">
    <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
   </a>
-  <a href="https://www.instagram.com/hanzelkaraagac/?hl=tr" target="_blank">
+  <a href="https://www.instagram.com/alimov.a.1/" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
-  <a href="https://discord.com/servers/software-library-1030166206025568356" target="_blank">
+  <a href="https://www.instagram.com/alimov.a.1/" target="_blank">
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 
@@ -122,4 +122,4 @@ jobs:
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/alimovabdulla/alimovabdulla)
