@@ -2,6 +2,11 @@
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <br>
+<br>
+<div style="text-align: center; width: 100%;">
+    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
+</div>
+
  
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
@@ -25,10 +30,6 @@
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
  
-<br>
-<div style="text-align: center; width: 100%;">
-    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
-</div>
 
 
 <!--   
