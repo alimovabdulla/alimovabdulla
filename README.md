@@ -25,6 +25,8 @@
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 <br>
+<br>
+<br>
  <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" align="right"/> </p>
 
 <!--   
