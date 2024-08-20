@@ -24,7 +24,8 @@
  
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Abdullah+Alimov+Channel;+Click+image+to+join+our+server)
+ <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" align="right"/> </p>
+
 <!--   
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
