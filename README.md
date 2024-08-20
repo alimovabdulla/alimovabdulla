@@ -47,7 +47,7 @@
 <br>
 
  <div align="center"> 
-  <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
+  <a href="https://www.youtube.com/@alimov.a.1" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/abdullah-alimov-95a989317/" target="_blank">
