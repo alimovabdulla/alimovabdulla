@@ -66,10 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> 
   </a>
 
-  <!-- ASP.NET Core -->
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/ASP.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/> 
-  </a>
+ 
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
