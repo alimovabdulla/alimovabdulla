@@ -1,7 +1,7 @@
  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
  
 <div >
-    <img src="https://komarev.com/ghpvc/?username=alimovabdulla&&style=plastics&&color=green" style="display: inline-block;" />
+   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falimovabdulla%2F&s=30&c=ff0000&bg=00000000&no=3&ff=alien&tb=+&ta=++Visitors" alt="visits">
 </div>
  
 
