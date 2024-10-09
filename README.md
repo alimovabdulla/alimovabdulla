@@ -94,7 +94,7 @@
   <a href = "mailto:abdullaalimov555@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
-  <a href="https://medium.com/@abdullaalimov555">
+  <a href="https://medium.com/@abdullaalimov">
    <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
   </a>
   <a href="https://twitter.com/alimovabdulla">
