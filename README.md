@@ -153,7 +153,6 @@ jobs:
 
 <p align="center">
   <img height="150" width="150" src="left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimovabdulla&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="right.webp">
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
