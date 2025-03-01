@@ -27,7 +27,7 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img    src="https://raw.githubusercontent.com/alimovabdulla/MYPic/refs/heads/main/sooonkafde2.jpg" width=10 />
+<img    src="https://raw.githubusercontent.com/alimovabdulla/MYPic/refs/heads/main/sooonkafde2.jpg" width=1000 />
  
  
 
